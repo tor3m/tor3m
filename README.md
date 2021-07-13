@@ -24,6 +24,6 @@
         <img src="https://img.shields.io/badge/maribeltm--_.svg?label=Twitch&style=social&logo=twitch">
     </a>
     <a href="https://www.youtube.com/">
-        <img src="https://img.shields.io/badge/tor3m--_.svg?style=social&logo=youtube" alt="YouTube">
+        <img src="https://img.shields.io/badge/--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
 </p> 
