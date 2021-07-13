@@ -9,3 +9,10 @@
 - 📫 How to reach me: torres.m3lly@gmail.com
 - ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
+🌍 
+<p align="center">
+    <a href="https://github.com/tor3m">
+        <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub tor3m">
+    </a>
+  
+</p> 
