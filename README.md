@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on new side projects
 - 💬 Ask me about web devlopment
 - 📫 How to reach me: torres.m3lly@gmail.com
-- ⚡ Fun fact: I love Salsa =) 💃
+- ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
