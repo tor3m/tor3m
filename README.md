@@ -15,10 +15,10 @@
         <img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub tor3m">
     </a>
   <a href="https://instagram.com/tor3m">
-        <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram">
+        <img src="https://img.shields.io/badge/tor3m--_.svg?label=Instagram&style=social&logo=instagram">
     </a>
-    <a href="https://twitter.com/tor3m">
-        <img src="https://img.shields.io/twitter/follow/tor3m?label=Twitter&style=social">
+    <a href="https://twitter.com/maribeltm">
+        <img src="https://img.shields.io/twitter/follow/maribeltm?label=Twitter&style=social">
     </a>
     <a href="https://twitch.tv/">
         <img src="https://img.shields.io/badge/tor3m--_.svg?label=Twitch&style=social&logo=twitch">
