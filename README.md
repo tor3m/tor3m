@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
 
-[<p align="center">
+<!--[<p align="center">
     <a href="https://github.com/tor3m">
         <img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub tor3m">
     </a>
@@ -26,4 +26,4 @@
     <a href="https://www.youtube.com/">
         <img src="https://img.shields.io/badge/--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
-</p> ](url)
+</p> -->
