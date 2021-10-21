@@ -9,7 +9,7 @@
 - 📫 How to reach me: torres.m3lly@gmail.com
 - ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
-Languages and tools:
+ ## Languages and tools:
 <a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
 <a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a> 
 <a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></a>
