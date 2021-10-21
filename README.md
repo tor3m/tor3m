@@ -1,29 +1,52 @@
- Hi there 👋 🌍 
-
- ✨ Wellcome ✨ 
-
-- 🔭 I’m currently working on my projects for my portafolio
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on new side projects
-- 💬 Ask me about web devlopment
+ ### Hi there 👋 🤗 🌍 
+ 
+ ## ✨ Wellcome ◕‿◕ ✨ 
+<code><img align="right" height="300" src="https://user-images.githubusercontent.com/81690198/138321568-1541fdae-550b-4ae6-b64c-2d1c4e26df60.jpeg"/><code>
+- 🌱 I'm a Junior Front-end Developer
+- 🔭 I’m currently working on something cool!
+- 👯 Part of Developer Community
+- 💬 Ask me about anything 😃 I would be happy to help 🙆‍♀️
 - 📫 How to reach me: torres.m3lly@gmail.com
 - ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
 
-<!--[<p align="center">
-    <a href="https://github.com/tor3m">
-        <img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub tor3m">
-    </a>
+## languages and tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/><code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/><code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/><code> 
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/><code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/452/slack-new.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" /></code> 
+ 
+ ## Connect with me: 
+ <p>
+  <a href="https://twitter.com/tor3m" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tor3m" height="30" width="40" />
+  </a>  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tor3m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tor3m/" height="30" width="40" /></a>
+ </p>
+
+ 
+ ![](https://visitor-badge.glitch.me/badge?page_id=tor3m.tor3m)
+ 
+ 
+<!--[
     <a href="https://instagram.com/tor3m">
         <img src="https://img.shields.io/badge/tor3m--_.svg?label=Instagram&style=social&logo=instagram">
     </a>
-    <a href="https://twitter.com/maribeltm">
-        <img src="https://img.shields.io/twitter/follow/maribeltm?label=Twitter&style=social">
-    </a>
+    
     <a href="https://twitch.tv/">
         <img src="https://img.shields.io/badge/maribeltm--_.svg?label=Twitch&style=social&logo=twitch">
     </a>
     <a href="https://www.youtube.com/">
         <img src="https://img.shields.io/badge/--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
-</p> -->
+-->
