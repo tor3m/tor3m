@@ -10,19 +10,19 @@
 - ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
 
  ## Languages and tools:
-<a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a> 
-<a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/></a> 
-<a href><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/></a> 
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></a>
-<a href><img height="20" src="https://img.icons8.com/color/452/slack-new.png"/></a>
-<a href><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" /></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a> 
+<a href><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/></a> 
+<a href><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/></a> 
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></a>
+<a href><img height="40" src="https://img.icons8.com/color/452/slack-new.png"/></a>
+<a href><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" /></a>
  
  ## Connect with me: 
  <p><a href="https://twitter.com/maribeltm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tor3m" height="30" width="40" /></a>  
