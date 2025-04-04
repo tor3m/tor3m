@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on something cool!
 - 👯 Part of Developer Community
 - 💬 Ask me about anything 😃 I would be happy to help 🙆‍♀️
-- 📫 How to reach me: torres.m3lly@gmail.com
-- ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶
+<!--- 📫 How to reach me: torres.m3lly@gmail.com
+- ⚡ Fun fact: I love Salsa =) 💃 & My litle dog is called Azul 🐶-->
 
  ## Languages and tools:
 <a href><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
